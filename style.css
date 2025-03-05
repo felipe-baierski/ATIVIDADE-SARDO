@@ -15,6 +15,11 @@
     padding: 1rem;
 }
 
+.navbar a {
+    font-weight: bold;
+
+}
+
 .navbar ul {
     display: flex;
     list-style: none;
