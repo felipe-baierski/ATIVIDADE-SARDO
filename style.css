@@ -1,0 +1,11 @@
+.carrossel {
+    display: flex;
+    overflow: hidden;
+    width: 300px;
+
+}
+
+.carrosel img {
+    width: 100%;
+    transition: tra;
+}
