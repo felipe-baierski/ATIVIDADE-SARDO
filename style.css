@@ -7,5 +7,5 @@
 
 .carrosel img {
     width: 100%;
-    transition: tra;
+    transition: transform 0.5s ease-in-out;
 }
